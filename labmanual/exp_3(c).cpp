@@ -30,7 +30,6 @@ void add(const one& fN, const two& sN){
 }
 
 
-
 int main(int argc, char const *argv[])
 {
 	class one fN;
