@@ -76,8 +76,6 @@ int main()
         cout<<"Total number of Manager :"<< employ::mcount<<endl;
     else
         cout<<"Total number of Engineer :"<< employ::ecount<<endl;
-
-
 }
 
 
