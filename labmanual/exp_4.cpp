@@ -86,6 +86,5 @@ int main()
 	R.setresult(M);
 	cout<<"\nResultant Matrix: \n";
 	R.getresult(M);
-
 	return 0;
 }
