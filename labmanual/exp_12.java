@@ -2,6 +2,17 @@ import java.util.Scanner;
 
 class Main{
     public static void main(String[] args){
+        float p = (float)2.0;
+        int q = 0;
+        char c1 = 'H';
+        char c2 = 'r';
+        char c3 = 'W';
+        char c4 = 'd';
+        int r = 3;
+        int t = 1;
+        String s = new String();
+        s = "" + c1 + r + t +t +q + " " + c3+ q + c2 + t + c4 +" "+ p + " true";
+        System.out.println(s);
         Scanner in = new Scanner(System.in);
         System.out.println("Aritmetic Operation:");
         System.out.print("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Remainder\n");
