@@ -119,5 +119,4 @@ int main()
 		cout<<"Program has been terminated!\n";
 		return 1;
 	}
-
 }
