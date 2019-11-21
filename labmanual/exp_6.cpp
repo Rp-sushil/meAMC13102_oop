@@ -23,8 +23,8 @@ matrix::matrix(){
 }
 
 matrix::matrix(int r,int c){
-	rows = c;
-	col  = r;
+	rows = r;
+	col  = c;
 	mtrix = new int*[rows];
 	for(int i = 0; i < rows; i++){
 		mtrix[i] = new int[col];
